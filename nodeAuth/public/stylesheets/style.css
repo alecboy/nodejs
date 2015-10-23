@@ -1,0 +1,47 @@
+body {
+    padding-top: 50px;
+    font-family: arial;
+}
+
+ul.success, ul.info, ul.error li {
+    margin: 20px 0 20px 0;
+    padding: 15px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    list-style: none;
+}
+
+ul.success li {
+    color: #3c763d;
+    background: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+ul.info li {
+    color: #31708f;
+    background: #d9edf7;
+    border-color: #bce8f1;
+}
+
+ul.error li {
+    color: #3c763d;
+    background: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+a {
+    color: #00B7FF;
+}
+
+.jumbotron {
+
+}
+
+footer {
+    background: #f4f4f4;
+    height: 40px;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 10px;
+    overflow: auto;
+}

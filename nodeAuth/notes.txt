@@ -1,0 +1,16 @@
+In order to encrypt the user password:
+
+- Install visual studio 2013 community
+
+- Install visual c++ 2008 redistributables (x64)
+
+- Install OpenSSL Full
+
+- Install Node-gyp
+npm install -g node-gyp
+
+- Install bcrypt
+npm install bcrypt
+
+- You may need to do this
+npm install bcrytp --msvs_version-2013

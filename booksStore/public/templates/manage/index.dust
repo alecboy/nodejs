@@ -1,0 +1,8 @@
+{>"layouts/manage" /}
+
+{<body}
+
+    <h2>Manage</h2>
+    Index Manage
+
+{/body}

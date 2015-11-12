@@ -1,0 +1,24 @@
+{>"layouts/master" /}
+
+        {<title}
+        About Books Store
+        {/title}
+
+        {<body}
+
+<div class="row">
+<div class="large-12 columns">
+    <h2>About Us</h2>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis varius velit enim, a egestas leo pulvinar vitae. In
+        varius metus id libero lacinia vehicula. Donec et semper mauris. Donec molestie erat vel eros rhoncus
+        pellentesque quis sit amet arcu. Morbi congue feugiat bibendum. Integer sit amet urna sollicitudin, commodo arcu
+        et, vulputate purus. Phasellus tincidunt viverra turpis sollicitudin blandit. Aliquam erat volutpat.</p>
+
+    <p>Quisque posuere ultricies mauris at tristique. Proin ut justo viverra dui pulvinar maximus. Cras dignissim mattis
+        massa, in porttitor ipsum eleifend vel. Curabitur faucibus justo quis magna pharetra, eu tincidunt ex mattis. Ut
+        auctor eros in finibus vestibulum. Vivamus sit amet lectus in dui sollicitudin fermentum.</p>
+</div>
+</div>
+
+        {/body}

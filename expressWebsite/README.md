@@ -1,11 +1,10 @@
 # ExpressWebsite
-
-- This app uses bootstrap
+This is an example of an application creating with Node.js and Express module.
 
 ## Usage
-
-## Developing
+```
+run node bin/www
+```
 
 ### Tools
-
-Created with [WebStorm]
+Created with [WebStorm](https://www.jetbrains.com/webstorm/)

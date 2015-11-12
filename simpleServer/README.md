@@ -1,9 +1,15 @@
-# SimpleServer
+SimpleServer
+============
+This is an example of a simple server creating with Node.js
 
-## Usage
+Usage
+-----
+```
+run node server.js
+```
 
-## Developing
+The server will be listening in 1337 port.
 
-### Tools
-
-Created with [WebStorm]
+Tools
+-----
+Created with [WebStorm](https://www.jetbrains.com/webstorm/)

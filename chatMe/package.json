@@ -1,0 +1,9 @@
+{
+  "name": "chatMe",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "socket.io": "*",
+    "express": "~4.13.1"
+  }
+}

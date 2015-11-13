@@ -5,14 +5,10 @@ var server = require('http').createServer(app);
 
 var io = require('socket.io').listen(server);
 
-if (process.env.PORT) {
-    server.listen(process.env.PORT);
-} else {
-    server.listen(3000);
-}
+server.listen(process.env.PORT);
 
 app.get('/', function (req, res) {
-    res.sendFile(__dirname + '\\index.html');
+    res.sendFile(__dirname + '/index.html');
 });
 
 var usernames = [];
